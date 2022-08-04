@@ -1,0 +1,302 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Dion Stoade",
+      "email": "dstoade0@cornell.edu",
+      "isStaff": false
+    },
+    {
+      "id": 2,
+      "fullName": "Windy Thorneloe",
+      "email": "wthorneloe1@usa.gov",
+      "isStaff": false
+    },
+    {
+      "id": 3,
+      "fullName": "Hillie Phillpotts",
+      "email": "hphillpotts2@rakuten.co.jp",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "Helenelizabeth Passfield",
+      "email": "hpassfield7@netvibes.com",
+      "isStaff": true
+    },
+    {
+      "id": 5,
+      "fullName": "Franchot Slator",
+      "email": "fslator8@51.la",
+      "isStaff": true
+    },
+    {
+      "id": 6,
+      "fullName": "Renaud Erbe",
+      "email": "rerbe9@psu.edu",
+      "isStaff": true
+    },
+    {
+      "email": "jeremy@bakker.com",
+      "fullName": "Jeremy Bakker",
+      "isStaff": true,
+      "id": 7
+    },
+    {
+      "email": "bookman@gmail.com",
+      "fullName": "Brandon Billy",
+      "isStaff": false,
+      "id": 8
+    },
+    {
+      "email": "keyun123@gmail.com",
+      "fullName": "SaTonya Cox",
+      "isStaff": false,
+      "id": 9
+    },
+    {
+      "email": "sethlewis@gmail.com",
+      "fullName": "Seth Lewis",
+      "isStaff": false,
+      "id": 10
+    }
+  ],
+  "savedBooks": [
+    {
+      "bookId": 5,
+      "userId": 8,
+      "id": 23
+    },
+    {
+      "bookId": 1,
+      "userId": 8,
+      "id": 24
+    },
+    {
+      "bookId": 3,
+      "userId": 8,
+      "id": 25
+    },
+    {
+      "bookId": 4,
+      "userId": 8,
+      "id": 26
+    },
+    {
+      "bookId": 2,
+      "userId": 8,
+      "id": 27
+    },
+    {
+      "bookId": 5,
+      "userId": 8,
+      "id": 28
+    },
+    {
+      "bookId": 1,
+      "userId": 8,
+      "id": 29
+    },
+    {
+      "bookId": 4,
+      "userId": 8,
+      "id": 30
+    },
+    {
+      "bookId": 1,
+      "userId": 8,
+      "id": 32
+    },
+    {
+      "bookId": 1,
+      "userId": 8,
+      "id": 33
+    },
+    {
+      "bookId": 2,
+      "userId": 8,
+      "id": 34
+    },
+    {
+      "bookId": 3,
+      "userId": 8,
+      "id": 35
+    },
+    {
+      "bookId": 4,
+      "userId": 8,
+      "id": 36
+    },
+    {
+      "bookId": 5,
+      "userId": 8,
+      "id": 37
+    },
+    {
+      "bookId": 5,
+      "id": 38,
+      "userId": 2
+    },
+    {
+      "bookId": 5,
+      "userId": 8,
+      "id": 39
+    },
+    {
+      "bookId": 2,
+      "userId": 8,
+      "id": 40
+    },
+    {
+      "bookId": 1,
+      "userId": 8,
+      "id": 41
+    },
+    {
+      "bookId": 3,
+      "userId": 8,
+      "id": 42
+    },
+    {
+      "bookId": 4,
+      "userId": 8,
+      "id": 43
+    },
+    {
+      "bookId": 1,
+      "userId": 2,
+      "id": 44
+    },
+    {
+      "bookId": 1,
+      "userId": 2,
+      "id": 45
+    },
+    {
+      "bookId": 1,
+      "userId": 2,
+      "id": 46
+    },
+    {
+      "bookId": 1,
+      "userId": 2,
+      "id": 47
+    },
+    {
+      "bookId": 1,
+      "userId": 2,
+      "id": 48
+    },
+    {
+      "bookId": 1,
+      "userId": 2,
+      "id": 49
+    },
+    {
+      "bookId": 2,
+      "userId": 2,
+      "id": 50
+    },
+    {
+      "bookId": 4,
+      "userId": 9,
+      "id": 53
+    },
+    {
+      "bookId": 5,
+      "userId": 9,
+      "id": 54
+    },
+    {
+      "bookId": 2,
+      "userId": 9,
+      "id": 55
+    },
+    {
+      "bookId": 1,
+      "userId": 9,
+      "id": 56
+    },
+    {
+      "bookId": 5,
+      "userId": 9,
+      "id": 57
+    },
+    {
+      "bookId": 5,
+      "userId": 9,
+      "id": 58
+    },
+    {
+      "bookId": 5,
+      "userId": 9,
+      "id": 59
+    },
+    {
+      "bookId": 4,
+      "userId": 9,
+      "id": 60
+    },
+    {
+      "bookId": 2,
+      "userId": 10,
+      "id": 63
+    },
+    {
+      "bookId": 5,
+      "userId": 1,
+      "id": 64
+    },
+    {
+      "bookId": 3,
+      "userId": 1,
+      "id": 65
+    }
+  ],
+  "comments": [
+    {
+      "savedBookId": "5",
+      "userId": 1,
+      "content": "this sucks",
+      "id": 1
+    },
+    {
+      "savedBookId": "3",
+      "userId": 1,
+      "content": "great book!",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Einstein: His Life and Universe",
+      "author": "Walter Isaacson",
+      "yearPublished": 2007
+    },
+    {
+      "id": 2,
+      "title": "The Psychology of Totalitarianism",
+      "author": "Mattias Desmet",
+      "yearPublished": 2022
+    },
+    {
+      "id": 3,
+      "title": "JFK: Coming of Age in the American Century, 1917-1956",
+      "author": "Fredrik Logevall",
+      "yearPublished": 2020
+    },
+    {
+      "id": 4,
+      "title": "The Rise and Fall of the Dinosaurs: A New History of a Lost World",
+      "author": "Stephen Brusatte",
+      "yearPublished": 2018
+    },
+    {
+      "id": 5,
+      "title": "The Unwomanly Face of War: An Oral History of Women in World War II ",
+      "author": "Svetlana Alexievich",
+      "yearPublished": 2017
+    }
+  ]
+}
